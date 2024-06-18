@@ -54,3 +54,9 @@ Submit your document and GitHub repository link through the designated platform 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
 
 # SUBMISSION
+The document below contains:
+     1. Document detailing the setup process with step-by-step instructions and 
+       screenshots 
+     2.A GitHub repository containing a sample project initialized with Git
+          
+https://1drv.ms/w/c/79eb8ed5b7431a96/EXusjewmWRJFrNJf7OuCZXgBmrQf88D8R1HFDEmjdAzfiw?e=V3OlBw
